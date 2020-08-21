@@ -7,6 +7,9 @@ If the repos is forked and maintained let me know and we'll link to your repo he
 - Brad Reynolds
 
 ---
+UIWebView removed! 
+
+---
 
 The remote injection plugin allows a remote site to interact with [cordova](https://cordova.apache.org)'s javascript APIs when loaded within your cordova app.  When compared with a cordova app that packages its HTML the downside to loading a remote site is if the network is down your app is down.  This can be an acceptable trade off if your site has a heavy dependency on web services.  The advantage to this approach is the build, deployment, and previous investment of an existing site doesn't need to change and can continue to work for browser based users providing a smooth transition to an app which provides tighter native integration.
 

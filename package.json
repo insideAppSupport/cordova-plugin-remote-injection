@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-remote-injection",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "Injects Cordova into a remote site.",
   "cordova": {
     "id": "cordova-plugin-remote-injection",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TruckMovers/cordova-plugin-remote-injection"
+    "url": "https://github.com/insideAppSupport/cordova-plugin-remote-injection"
   },
   "keywords": [
     "ecosystem:cordova",
